@@ -79,7 +79,7 @@ https://termius.com/download/windows
 
 ##### - Şifre: Mailden gelen hashli şifremiz
 
-#### Ardından sağ aşağıdan connect diyoruz ve contiune diyip terminale giriş yapıyoruz.
+#### Ardından sağ aşağıdan connect diyoruz ve continue diyip terminale giriş yapıyoruz.
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/1bcac9eb-6ded-4d09-af50-a0af41017bea)
 
@@ -93,7 +93,7 @@ https://termius.com/download/windows
 
 #### Yeni şifremizi girdikten sonra artık ssh ile bağlantı kurduğumuz makinemize kendi bilgisayarımızdan uzaktan erişebiliriz 🎉
 
-#### Konsolu kapatın ve yeniden bağlanmayı deneyin. Termius sizin için kaydedecektir, üzerine çift tıklayın ve şifrenizi girin. Artık node kurulumları yapabilirsiniz, hayırlı olsun!
+#### Konsolu kapatın ve yeniden bağlanmayı deneyin. Termius sizin için kaydedecektir, üzerine çift tıklayın ve yeni oluşturduğunuz şifrenizi girin. Artık node kurulumları yapabilirsiniz, hayırlı olsun!
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/c9480fd6-3cc0-48bf-9ab7-e3d538b073a9)
 
