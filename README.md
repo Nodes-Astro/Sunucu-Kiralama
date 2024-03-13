@@ -1,6 +1,9 @@
 # Sunucu-Kiralama
 
-## Daha önce node kurmak için sunucu kiralayıp node kurmadıysanız bu rehberden faydalanabilirsiniz.
+
+## ℹ️ Daha önce node kurmak için sunucu kiralayıp node kurmadıysanız bu rehberden faydalanabilirsiniz.
+
+
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/7288623f-763c-4d23-a571-b932fea4dd5a)
 
