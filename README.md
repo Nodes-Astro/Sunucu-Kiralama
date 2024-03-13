@@ -95,13 +95,14 @@ https://termius.com/download/windows
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/c9480fd6-3cc0-48bf-9ab7-e3d538b073a9)
 
+
 ## Terminal Hakkında Ek bilgiler
 
-#### Sağ taraftan gözünüze hitap eden temayı seçebilirsiniz.
+#### ℹ️ Sağ taraftan gözünüze hitap eden temayı seçebilirsiniz.
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/e76f0839-67c4-483f-a67d-0ef1abfb2311)
 
-#### Ayrıca Termius yazdığınız komutların datasını tutarak size kolaylık sağlar ve varsayılan ayarlarında timeout 0'dır yani disconnect olmazsınız.
+#### ℹ️ Ayrıca Termius yazdığınız komutların datasını tutarak size kolaylık sağlar ve varsayılan ayarlarında timeout 0'dır yani disconnect olmazsınız.
 
 
 
