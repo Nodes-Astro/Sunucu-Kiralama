@@ -47,6 +47,8 @@ https://hetzner.cloud/?ref=zKv7TRa1TOGx
 
 #### ℹ️ Makinemizi seçerken bizi Shared ve Dedicated vCPU karşılıyor. Shared x86 işaretliyoruz ve bize uygun sistem özelliklerine göre bir makine seçip devam ediyoruz. (Dedicated daha çok hassas operasyonlar için terich edilir ve daha pahalıdır.)
 
+![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/9678d140-4f11-4c00-9c3a-86abe64eb4f8)
+
 #### Ardından başka bir değişiklik yapmadan mouse'umuzu en aşağıya kadar kaydırıyoruz, makinemizin ismini giriyoruz ve en sağ altta "Create & Buy Now" diyoruz ve böylelikle makinemizi kiralıyoruz.
 
 ## Terminal Kullanımı
