@@ -57,11 +57,11 @@ https://hetzner.cloud/?ref=zKv7TRa1TOGx
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/e464cd8d-46d7-4466-b93b-d1d8dab63584)
 
-#### Bunun için bir uygulama kullanmamız gerekiyor, ben kullanışı pratik ve birçok güzel özelliklere sahip Termius'u kullanıyorum oldukça da güvenli. Aşağıdaki linkten windows için indirebilirsiniz:
+#### Bunun için bir uygulama kullanmamız gerekiyor, ben kullanışı pratik olduğu için Termius'u tercih ediyorum ve rehberde Termius üzerinden anlatacağım. Aşağıdaki linkten windows için indirebilirsiniz:
 
 https://termius.com/download/windows
 
-#### Öncelikle Hetzner'e kayıt olduğunuz maili kontrol edin kiraladıktan sonra size ip ve hashli şifre veriyor.
+#### Öncelikle Hetzner'e kayıt olduğunuz maili kontrol edin, kiraladıktan sonra size ip ve hashli şifre veriyor.
 
 ![image](https://github.com/Nodes-Astro/Sunucu-Kiralama/assets/105454859/afb7bc72-bed4-4463-9ebe-cb0e34f307e7)
 
