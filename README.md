@@ -77,7 +77,7 @@ https://termius.com/download/windows
 
 ##### - Username: root
 
-##### - Şifre: Mailden gelen hashli şifreniz
+##### - Şifre: Mailden gelen hashli şifremiz
 
 #### Ardından sağ aşağıdan connect diyoruz ve contiune diyip terminale giriş yapıyoruz.
 
